@@ -186,6 +186,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\alfon\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="87fbe39d-04b3-45b7-aa56-ddbed16b4882" name="Changes" comment="Update Files" />
@@ -201,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670960732277</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update Files">
+      <created>1671099945127</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671099945127</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +227,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changing files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changing files" />
+    <MESSAGE value="Update Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Files" />
   </component>
 </project>
